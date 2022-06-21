@@ -44,7 +44,6 @@ Code is not the only thing you can contribute. I truly appreciate contributions 
 ### Review
 
 - Push new commits when doing changes to the pull request. Don't squash as it makes it hard to see what changed since the last review. I will squash when merging.
-- It's better to present solutions than asking questions.
 - Review the pull request diff after each new commit. It's better that you catch mistakes early than the maintainers pointing it out and having to go back and forth.
 - Be patient. Maintainers often have a lot of pull requests to review. Feel free to bump the pull request if you haven't received a reply in a couple of weeks.
 - And most importantly, have fun! 👌🎉
